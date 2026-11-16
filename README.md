@@ -66,7 +66,3 @@ NN-exercise-name/
 - Measuring frequency with timers in external clock mode
 - Interfacing character LCDs, 7-segment displays, and stepper motors
 - Simulation-based testing of embedded firmware before touching real hardware
-
-## 🤝 Contributing
-
-Suggestions and pull requests are welcome. Feel free to open an issue.
